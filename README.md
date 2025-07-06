@@ -40,6 +40,10 @@ The technical core of this project is the **data blending** step. This is a comm
 
 ## Key Insights & Visualizations
 
+![Community Poberty Rate vs Hospital Readmission Rate](SnapshotsPloty/Plot3.png)
+
+![Readmission Rate "Hostpots" by Hospital Locationl Readmission Rate](SnapshotsPloty/Plot4.png)
+
 ### SDoH Correlation Analysis
 
  <!-- Replace with a screenshot of your scatter plot -->
